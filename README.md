@@ -12,8 +12,9 @@ Compile it with gcc or other suitable compiler.</p>
 
 <p>1. A PyQt GUI based version of Calculator.calculator.py is the main source 
 file.It uses simple Stack-based logic and can perform some basic operations as:</p>
-> **Division**   
-> **Multiplication**    
+
+> **Division**     
+> **Multiplication**      
 > **Addition**   
 > **Subtraction**   
 
