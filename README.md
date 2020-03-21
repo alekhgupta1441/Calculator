@@ -10,8 +10,6 @@ Compile it with gcc or other suitable compiler.</p>
 
 <p>2. C++ and Qt Creator based GUI version. main.cpp is the top file in source 
 tree to be executed.</p>
-![Screenshot](/screenshots/calculator-screenshot.jpeg?raw=true "Calculator Screenshot")
-
 - Supports numbers up to 16 digits
 - Supports keyboard presses
 - Prevents overflow by displaying the number in floating point format if needed
